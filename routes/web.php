@@ -15,6 +15,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::redirect('/', '/dashboard-general-dashboard');
 
+//landing page
+Route::get('/landing-page', function(){
+    return view('pages.user.landing-page',['type_menu' => '']);
+});
+
 // Dashboard
 Route::get('/dashboard-general-dashboard', function () {
     return view('pages.dashboard-general-dashboard', ['type_menu' => 'dashboard']);
