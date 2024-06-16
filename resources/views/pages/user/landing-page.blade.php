@@ -477,7 +477,7 @@
             </div>
           </div>
         </div>
-        <div class="row">
+        <div class="row mb-5">
           <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
             <div class="team-member image-zoom">
               <div class="image-zoom-wrapper">
@@ -515,7 +515,7 @@
             </div>
           </div>
         </div>
-        <div class="row">
+        <div class="row mt-5">
           <div class="col-md-4" data-aos="fade-down" data-aos-delay="150">
             <div class="team-member image-zoom">
               <div class="image-zoom-wrapper">
